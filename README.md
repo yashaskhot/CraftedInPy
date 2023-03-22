@@ -30,3 +30,10 @@ Link:-https://github.com/yashaskhot/Python-Projects/tree/main/Text%20to%20Speech
 ->Scrapes the links from the given url and returns a txt file.
 
 Link:-https://github.com/yashaskhot/Python-Projects/tree/main/Web%20Scraper
+
+7.Personalized Password Generator
+->Wanted to store create and maintain password in one place?look no more further creates strong passwords and stores them in one txt file saving you the hassle.
+(P.S.:- Passwords in the current txt file are just sample and not real😆)
+
+
+Link:-https://github.com/yashaskhot/Python-Projects/tree/main/Personalized%20Password%20Generator
