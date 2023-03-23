@@ -37,3 +37,8 @@ Link:-https://github.com/yashaskhot/Python-Projects/tree/main/Web%20Scraper
 
 
 Link:-https://github.com/yashaskhot/Python-Projects/tree/main/Personalized%20Password%20Generator
+
+8.Pdf to Csv Converter
+->Convert your Pdf's to Csv files. Very important if you are working in data science projects as you constantly need data.
+
+Link:-https://github.com/yashaskhot/Python-Projects/tree/main/Pdf%20to%20Csv
