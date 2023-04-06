@@ -18,7 +18,7 @@ Here's a list of the projects in this repository:
 
 6.  **Web Scraper**: Scrapes the links from the given url and returns a txt file.
 
-7.  **.Personalized Password Generator **: Wanted to store create and maintain password in one place?look no more further creates strong passwords and stores them in one txt file saving you the hassle. (P.S.:- Passwords in the current txt file are just sample and not real😆).
+7.  **Personalized Password Generator**: Wanted to store create and maintain password in one place?look no more further creates strong passwords and stores them in one txt file saving you the hassle. (P.S.:- Passwords in the current txt file are just sample and not real😆).
 
 8.  **Pdf to Csv Converter**:Convert your Pdf's to Csv files. Very important if you are working in data science projects as you constantly need data.
 
